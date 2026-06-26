@@ -123,8 +123,8 @@ MIT License – feel free to fork and modify
 
 ## Links
 
-- **Live App**: [paste your AI Studio link]
-- **Project Doc**: [paste your Google Doc link]
+- **Live App**: https://civicpulse-community-hero-222403815315.asia-southeast1.run.app/
+- **Project Doc**: https://docs.google.com/document/d/1I2IfGCqn45boI5gtcIvGtlDpWbfCnKcxvQASLtaRQSg/edit?usp=sharing
 
 ---
 
