@@ -1,0 +1,11 @@
+{
+  "name": "CivicPulse — Community Hero",
+  "description": "CivicPulse is a hyperlocal civic issue reporting and resolution platform for Indian citizens to report, track, and resolve local infrastructure problems like potholes, water leakages, and broken streetlights, powered by AI and community action.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
